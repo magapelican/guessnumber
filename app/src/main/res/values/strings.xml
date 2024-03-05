@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GuessNumber</string>
+    <string name="writeNumberText">Введите число</string>
+    <string name="button">Кнопка</string>
+</resources>
